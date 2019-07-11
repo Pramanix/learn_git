@@ -1,2 +1,3 @@
 Git is a control system.
 Learning Git is very happy.
+Git is a distributed version control system.
